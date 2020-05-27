@@ -69,7 +69,7 @@ Tn <- var(x)
 ```
 
 A partir de estos dos valores, ¿Cuál sería un intervalo de confianza
-para la media?
+para la Varianza?
 
 Note que esta pregunta es difícil ya que no tenemos ningún tipo de
 información adicional.
